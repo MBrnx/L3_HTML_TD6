@@ -16,6 +16,11 @@ Pour le lancement du projet, il suffit de rentrer cette commande :
 ```bash
 npm run dev
 ```
+Pour voir si le serveur est bien fonctionnel, on peut accéder au lien : 
+http://localhost:4000/users 
+
+<br> 
+
 Pour voir la liste des utilisateurs, on tape : 
 ```bash
 curl -X GET http://localhost:4000/users
